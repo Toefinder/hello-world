@@ -1,5 +1,5 @@
 # hello-world
-Beginning with a hello world 
+Beginning with many hello worlds 
 
 Hello friends!!!
 Today marks the beginning of my github journey. 
